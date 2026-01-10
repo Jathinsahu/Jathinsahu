@@ -17,7 +17,9 @@
 
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/LeetCode-jathinsahu-%23ffa116?style=flat&logo=leetcode&logoColor=yellow&labelColor=black)](https://leetcode.com/jathinsahu/)(https://leetcode.com/u/jathinsahu/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jathinsahu)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jathinsahu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jathinsahu-%23ffa116?style=flat&logo=leetcode&logoColor=yellow&labelColor=black)](https://leetcode.com/u/jathinsahu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jathinsahu)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jathinsahu@gmail.com)
 
 
 # 💻 Tech Stack:
