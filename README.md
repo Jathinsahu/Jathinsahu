@@ -1,7 +1,7 @@
 👋 Hi, I'm **Jathin Sahu** — an analytical and adaptable thinker who enjoys breaking down complex problems and building elegant, scalable solutions.
 
 # 💫 About Me:
-🚆 **Currently Building:** *RailConnect* — turning ideas into scalable solutions  
+🚆 **Currently Building:** *RailNet* — turning ideas into scalable solutions  
 💻 **Competitive Programmer** | Java enthusiast | DSA problem-solver  
 🎯 **Aspiring Software Development Engineer (SDE)**  
 🌱 **Tech Stack & Concepts in Progress:** System Design • Spring Boot • PostgreSQL  • MERN   
