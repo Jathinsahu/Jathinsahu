@@ -1,12 +1,17 @@
 👋 Hi, I'm **Jathin Sahu** — an analytical and adaptable thinker who enjoys breaking down complex problems and building elegant, scalable solutions.
 
 # 💫 About Me:
-🚆 **Currently Building:** *RailNet* — turning ideas into scalable solutions  
-💻 **Competitive Programmer** | Java enthusiast | DSA problem-solver  
+🚆 **Built:** *RailNet* — a high-performance engine leveraging a Set Intersection Algorithm to compute efficient 1-stop train connections via logical interchange hubs.  
+🔗 Live: https://railnet.jathinsahu.workers.dev/  
+⚠️ _Note: If the server appears idle on first load, please refresh due to cold start behavior._
+
+📚 **Currently Building:** *Library Management System* — architecting an advanced enterprise-grade management ecosystem to automate library logistics, engineered with a modular backbone for future AI-driven discovery.
+
+💻 **Competitive Programmer** | Java Enthusiast | DSA Problem-Solver  
 🎯 **Aspiring Software Development Engineer (SDE)**  
-🌱 **Tech Stack & Concepts in Progress:** System Design • Spring Boot • PostgreSQL  • MERN   
+🌱 **Exploring:** System Design • Spring Boot • PostgreSQL • MERN  
 🧠 **Ask Me About:** Java • Data Structures & Algorithms  
-🗣️ **Strong Communicator** — I love clean discussions as much as clean code  
+🗣️ **Strong Communicator** — I value clean discussions as much as clean code  
 ⚡ **Highly Adaptive | Endlessly Curious | Always Learning**
 
 
