@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1lyzTim1okF1SCmu25k0MZp_Vpg_oVT_s" />
+</p>
 
 👋 Hi, I'm **Jathin Sahu** — an analytical and adaptable thinker who enjoys breaking down complex problems and building elegant, scalable solutions.
 
